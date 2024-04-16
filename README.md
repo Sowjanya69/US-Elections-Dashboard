@@ -1,2 +1,45 @@
-# US-Elections-Dashboard
-2020 US Elections Dashboard in PowerBI provides the visualisations such as map showing state-wise votes for Joe Biden and Donald Trumph, card visuals displaying total votes, a bar chart illustrating electoral votes distribution, and a pie chart depicting vote distribution between the candidates. The dashboard is designed for quick insights.
+
+# US ELECTIONS 2020
+The US Elections Analysis Power BI project provides a comprehensive visual representation of the 2024 US presidential election results. Through interactive visualizations, users can explore state-wise vote counts for Joe Biden and Donald Trump, electoral votes distribution, and the latest update timestamp.
+
+## 1. MAP VISUALISATION:
+The map visualization offers an intuitive overview of the election landscape across all US states. Each state is color-coded to represent the total votes cast for Joe Biden and Donald Trump. Users can quickly identify the states where each candidate has the highest support.
+While selecting the state in filter, the map changes and shows with the respective state.
+Below I am showing the visual representation of filter and map:
+
+![filter](https://github.com/Sowjanya69/US-Elections-Dashboard/assets/79791890/1879e1a3-adf2-402d-bcd4-9bff1943fa94)
+
+![map](https://github.com/Sowjanya69/US-Elections-Dashboard/assets/79791890/6c7a645a-5622-4fc6-a6ba-1607d834ded3)
+
+## 2. Card Visualizations for Total Votes:
+Two card visualizations prominently display the total votes garnered by Joe Biden and Donald Trump nationwide. These cards provide a snapshot of the overall voting trend 
+Below the visual representation of cards is shown:
+![cards](https://github.com/Sowjanya69/US-Elections-Dashboard/assets/79791890/4d26b0b4-78dc-4d36-82d9-afccc363be29)
+
+## 3. Card Visualization for Last Update:
+A dedicated card visualization showcases the timestamp of the last data update.
+Belwo is the visual representation of card for last updation:
+![update](https://github.com/Sowjanya69/US-Elections-Dashboard/assets/79791890/39a649b5-75ca-4dfb-8a2b-859ec93e8e54)
+
+## 4. Stacked Bar Chart for Electoral Votes:
+The stacked bar chart presents a comparative analysis of electoral votes allocation among states. Each bar represents a state, divided into segments corresponding to the electoral votes won by Joe Biden and Donald Trump. This visualization offers insights into the distribution of electoral power across the nation.
+Below I am showing the visual representation:
+![stacked column](https://github.com/Sowjanya69/US-Elections-Dashboard/assets/79791890/f7c11b78-85a2-45ae-b3d8-9243667bc2f6)
+
+## 5. Pie Chart for Vote Distribution:
+The pie chart provides a visual breakdown of the vote distribution between Joe Biden and Donald Trump nationwide. Users can easily discern the proportion of votes received by each candidate, facilitating a deeper understanding of their respective electoral performance.
+Below is the visuals:
+![pie](https://github.com/Sowjanya69/US-Elections-Dashboard/assets/79791890/a0b97789-2fc2-49d5-931b-71a5f95de0bb)
+
+The dashboard visualisation looks like below:
+![full view](https://github.com/Sowjanya69/US-Elections-Dashboard/assets/79791890/e6a1c582-2fcf-42a0-88e5-de8adb39794f)
+
+## Interactivity:
+The Power BI report features interactive elements that enable seamless exploration and analysis. Users can interact with the map visualization to filter data based on selected states, dynamically updating the card visualizations, bar chart, and pie chart to reflect the narrowed focus. This interactivity enhances user engagement and facilitates a more personalized analytical experience.
+
+
+## Formatting:
+The report adopts a visually appealing design with consistent formatting across all visualizations. Thoughtful color schemes, clear labeling, and concise titles contribute to the report's aesthetic appeal and usability. The layout is optimized for clarity and ease of navigation, ensuring users can access relevant insights effortlessly.
+
+## Conclusion:
+The US Elections Analysis Power BI project offers a powerful platform for dissecting and interpreting the outcomes of the 2020 US presidential election. By leveraging interactive visualizations and comprehensive data representation, users can gain valuable insights into the voting patterns, electoral dynamics, and overall outcome of this significant political event. Whether for academic research, political analysis, or general interest, this Power BI report serves as a valuable resource for understanding the intricacies of the US electoral process.
